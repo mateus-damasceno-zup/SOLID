@@ -1,0 +1,6 @@
+Isto é, classes derivadas podem ser substitutas de suas classes base,
+ou ainda: toda e qualquer classe derivada pode ser usada como se fosse a classe base.
+
+“Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que,
+para todos os programas P definidos em termos de T,
+o comportamento de P é inalterado quando o1 é substituído por o2 então S é um subtipo de T”

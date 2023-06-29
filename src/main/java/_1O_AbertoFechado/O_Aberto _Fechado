@@ -1,0 +1,5 @@
+“Aberto para extensão” diz que você deve projetar suas classes para que novas funcionalidades possam ser adicionadas à medida que novos requisitos são gerados.
+
+“Fechado para modificação” significa que uma vez que uma classe tenha sido desenvolvida ela nunca deve ser modificada, exceto para corrigir bugs e demais problemas no código.
+
+Em suma, quando novos comportamentos e funções precisam ser adicionados ao software, devemos estender em vez de alterar o código original.

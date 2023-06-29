@@ -1,0 +1,4 @@
+cada classe ou estrutura semelhante no código da sua aplicação deve fazer apenas um trabalho.
+
+Portanto, isso significa que uma classe deve ter um, e somente um, motivo para mudar,
+podendo também ser aplicado a funções, componentes, entidades, etc.

@@ -1,0 +1,7 @@
+1- módulos de alto nível não devem depender de módulos de baixo nível, eles devem depender de abstrações;
+2- as abstrações não devem depender de detalhes, detalhes devem depender de abstrações.
+
+Isolar a classe atrás de um limite formado pelas abstrações que dela dependem.
+Se os detalhes por trás dessas abstrações mudarem, nossa classe ainda continuará segura.
+ Isso ajuda a manter o acoplamento baixo, além de tornar nosso projeto mais fácil de ser alterado,
+  permitindo testar coisas isoladamente.
